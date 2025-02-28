@@ -1,4 +1,4 @@
-# Coffee Shop Analysis (Phân tích tình hình kinh doanh của quán Cà phê) ☕
+# Coffee Shop Analysis (Phân tích tình hình kinh doanh cửa hàng Cà phê) ☕
 
 ## Introduction (Giới Thiệu) 📚
 
