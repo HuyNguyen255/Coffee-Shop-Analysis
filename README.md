@@ -23,7 +23,7 @@ Nhằm mục đích để phân tích 📊 dữ liệu tổng quan về hoạt �
   
 - **Power BI:** Trực quan hóa những truy vấn thành bảng biểu, biểu đồ
   
-- **Github:** Đăng các truy vấn, file dữ liệu cũng như file trực quan hóa dữ liệu để chia sẻ cho mọi người và bài phân tích của cá nhân tôi. Để mọi người có thể tham khảo cũng như đóng góp ý kiến cho tôi.
+- **Github:** Đăng những câu truy vấn, file dữ liệu cũng như file trực quan hóa dữ liệu để chia sẻ cho mọi người và bài phân tích của cá nhân tôi. Để mọi người có thể tham khảo cũng như đóng góp ý kiến cho tôi.
 
 ## The Analysis (Phân tích) 📈
 
