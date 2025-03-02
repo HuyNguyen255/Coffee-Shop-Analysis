@@ -225,7 +225,7 @@ FROM table1) as table2;
 
   
 
-## Dựa vào file Power BI có thể có cái nhìn trực quan hơn (sau đây là một vài hình ảnh chart, table từ file Power BI)
+## [Dựa vào file Power BI có thể có cái nhìn trực quan hơn (sau đây là một vài hình ảnh chart, table từ file Power BI)](https://github.com/HuyNguyen255/Coffee-Shop-Analysis/blob/d76f0e3ed8d71b31f1ad4b782b0ffde2969a0d29/Coffee%20Sales%20Dashboard.pbix)
 
 ![dashboard](Pictures/main_dashboard.png)
 
